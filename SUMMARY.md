@@ -2,7 +2,7 @@
 
 - [🏠 Home](README.md)
 - [🤝 Leitfaden zum Beitragen](leitfaden-zum-beitragen.md)
-- [🐧 Aufbau von Linux](/aufbau-von-Linux/aufbau-von-linux.md)
+- [🐧 Aufbau von Linux](aufbau-von-Linux/aufbau-von-linux.md)
     - [💻 Kernelstruktur](aufbau-von-linux/kernel-struktur.md)
     - [📁 Dateistruktur](aufbau-von-linux/datei-struktur.md)
     - [Nutzerverwaltung](aufbau-von-linux/nutzerverwaltung.md)
